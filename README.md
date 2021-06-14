@@ -7,3 +7,6 @@
    * Merge Sort
    * Quick Sort
    * Heap Sort
+2. **Search**: To search a given number in a list of numbers. The algorithms implemented are:
+   * Linear Search
+   * Binary Search

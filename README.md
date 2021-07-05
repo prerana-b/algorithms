@@ -10,3 +10,4 @@
 2. **Search**: To search a given number in a list of numbers. The algorithms implemented are:
    * Linear Search
    * Binary Search
+3. **Dutch National Flag Problem** : The flag of the Netherlands consists of three colors: white, red, and blue. The task is to randomly arrange balls of white, red, and blue such that balls of the same color are placed together.
